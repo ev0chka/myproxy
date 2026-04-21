@@ -5,6 +5,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "proxy-chain": "^2.5.9"
+    "http-proxy": "^1.18.1"
   }
 }
