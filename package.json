@@ -1,23 +1,10 @@
 {
-
- "name": "render-proxy",
-
- "version": "1.0.0",
-
- "description": "Simple HTTP-Proxy",
-
- "main": "server.js",
-
- "scripts": {
-
-  "start": "node server.js"
-
- },
-
- "dependencies": {
-
-  "http-proxy": "^1.18.1"
-
- }
-
+  "name": "render-proxy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "proxy-chain": "^2.5.9"
+  }
 }
